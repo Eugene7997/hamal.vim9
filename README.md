@@ -37,7 +37,7 @@ repo follows the standard `plugin/` + `autoload/` layout.
 
 ## Short Demo
 
-<video src="doc/hamalvim9_demo.mp4" controls muted></video>
+https://github.com/user-attachments/assets/b6e90abf-3285-4ccc-a9b8-06d93669b0d0
 
 ## Usage
 
