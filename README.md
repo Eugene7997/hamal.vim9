@@ -35,13 +35,17 @@ Any manager that can install a plain git-based Vim plugin (vim-plug,
 minpac, dein, Vundle, packer-style managers, etc.) works, since this 
 repo follows the standard `plugin/` + `autoload/` layout.
 
+## Short Demo
+
+<video src="doc/hamalvim9_demo.mp4" controls muted></video>
+
 ## Usage
 
 By default, `<leader><leader>` enters hamal mode in normal mode. It splits
 the currently visible window range into three sections, highlighting the
 first one, and waits for a key:
 
-> If <leader> is unconfigured in vim9+, it may be backslash "\".
+> If <leader> is unconfigured in vim9+, it may be backslash "\\".
 
 | Key | Action |
 | --- | --- |
